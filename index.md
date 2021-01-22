@@ -1,7 +1,8 @@
 <html>
 <head>
 <title>RESUME</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="//bootstrap-extension.com/css/4.6.1/bootstrap-extension.min.css" type="text/css">
+<script src="//bootstrap-extension.com/js/4.6.1/bootstrap-extension.min.js"></script>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <!-- jQuery library -->
