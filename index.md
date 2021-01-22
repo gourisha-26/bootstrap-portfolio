@@ -1,0 +1,159 @@
+<html>
+<head>
+<title>RESUME</title>
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+ 
+<style type="text/css">
+.jumbotron
+{
+	background-color: #b3d9ff;
+}
+.container
+{
+	background-color: #ccf2ff;
+}	
+.jumbotron1
+{
+	background-color: #ccf2ff;
+}
+	
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+</style>
+</head>
+
+
+
+
+<body style="Calibri">
+
+<br>
+<div class="container">
+  <div class="jumbotron">
+	<center><img src="pic.jpg" height="150px" border="2px" class="img-circle" ;>
+		<font face="HP Simplified Light" color="">
+	<h2 align="center">GOURISHA GOEL </h2>
+	Looking for a challenging role in a reputable organization to utilize my technical and design skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
+	</font>
+ 	</center>
+ </div>
+</div>
+
+<br>
+
+<center><font face="HP Simplified Light" size="5"><h3><b>SKILLS</b></h3></font><hr color="black" width="10%">
+<font size="3">
+Effective communication, leadership, adaptability, creativity, critical thinking<br>
+User interface designer, full stack developer, programming languages such as JAVA Script, C, HTML, PHP, CSS, Basic Python<br>
+</font><br>
+</center>
+
+<center><font face="HP Simplified Light" size="5"><b><h3>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</h3></b></font><hr color="black" width="50%">
+<font size="3">
+<b>Manav Rachna scholars</b> (2019-2021)<br>
+<b>ISR head </b>of Forest Rhinos Clan<br>
+Core team member, <b>MRIIRS Badminton Team </b><br>
+1-day workshop,<b> database systems</b>  by Coding Ninjas (19th September 2019)<br>
+1-day workshop,<b> arduino </b> by MRU (2019)<br>
+1 Month Intership at <b>"FirstAil.com"</b> <br>
+Campus Ambassador at <b>Coding Blocks</b><br>
+</font>
+</div>
+</center>
+<br>
+
+
+
+
+
+<center><font face="HP Simplified Light" size="5"><b>EDUCATION</b></font>
+<hr color="black" width="16%">
+<div class="container1">
+  <div class="jumbotron1">
+<table border=5 cellpadding="1px" cellspacing="1px" class="table table-bordered">
+  <font size="3">
+  <tr bgcolor="#b3d9ff">
+    <th>Examination</th>
+    <th>Year </th>
+    <th>School/University</th>
+    <th>Grade</th>
+  </tr>
+  <tr >
+    <td>Class XII(CBSE)</td>
+    <td>2019</td>
+    <td>Apeejay School, Faridabad</td>
+    <td>88%</td>
+  </tr>
+  <tr >
+    <td>Class X(CBSE)</td>
+    <td>2017</td>
+    <td>Apeejay School, Faridabad</td>
+    <td>80%</td>
+  </tr>
+  <tr>
+    <td>1st Semester</td>
+    <td>College Board</td>
+    <td>MRIIRS</td>
+    <td>92%</td>
+  </tr>
+  <tr >
+    <td>2nd Semester</td>
+    <td>College Board</td>
+    <td>MRIIRS</td>
+    <td>89%</td>
+  </tr>
+</font>
+</table>
+</div></center>
+
+</div></div>
+
+
+
+
+
+<center><font face="HP Simplified Light" color=""><b><center><h3>INTERESTS</h3></center></b></font>
+<hr width="15%" color="black">
+
+
+	Badminton<br>
+	Sketching<br>
+	Swimming<br>
+	Listening Music<br>	
+</center>
+
+<font face="HP Simplified Light" color="" ><h3><b><center>CONTACT</center></b></h3></font>
+</center>	
+<hr width="15%" color="black">
+<center>
+<nav>
+
+        <ul class="nav justify-content-lg-center ">
+            <li class="nav-item ">
+                <a href="https://manavrachna.edu.in/international-institute-of-research-and-studies/ " class="nav-link ">College Website</a>
+            </li>
+            <li class="nav-item ">
+                <a href="mailto: ggourisha2001@gmail.com " class="nav-link "> E-mail</a>
+            </li>
+            <li class="nav-item ">
+                <a href="https://github.com/gourisha-26 " class="nav-link ">GitHub</a>
+            </li>
+            <li class="nav-item ">
+                <a href="https://www.linkedin.com/in/gourisha-goel-6356701a8/" class="nav-link ">LinkedIn</a>
+            </li>
+        </ul>
+    </nav></center>
+
+
+</body>
+</html>
